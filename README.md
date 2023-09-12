@@ -1,6 +1,6 @@
-# Olá, sou Gustavo Silva Martins
-##  desenvolvedor web voltado para o front-end (por enquanto).
-Estou sempre buscando agregar conhecimento, atualmente estou estudando Javascript, React e estou participando de um bootcamp.
+# Olá, sou Gustavo Silva Martins :wave:
+##  desenvolvedor front-end.
+Estou sempre buscando agregar conhecimento, atualmente estou estudando Javascript, React.
 
 ## 📫 Entre em contato:
 ### :envelope: gus.gustavosm@gmail.com
